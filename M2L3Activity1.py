@@ -14,3 +14,4 @@ else:
     print("Sum of first", n, "natural numbers is:", total)
 
 print("Thank you!")
+
